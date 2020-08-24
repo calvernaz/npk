@@ -1,0 +1,11 @@
+#	The keys for Terraform to use when generating the environment.
+access_key = ""
+secret_key = ""
+region = "us-west-2"
+
+###	URLs for extra components.
+# Hashcat
+hashcat = "https://hashcat.net/files/hashcat-5.0.0.7z"
+
+# EPEL repo RPM
+epel = "https://dl.fedoraproject.org/pub/epel/7/x86_64/Packages/e/epel-release-7-12.noarch.rpm"
